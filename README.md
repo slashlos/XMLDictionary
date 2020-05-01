@@ -1,3 +1,6 @@
+What follows is from the orignal https://github.com/nicklockwood/XMLDictionary.
+
+I hope to maintain this and publish via Swift package.
 
 Purpose
 --------------
