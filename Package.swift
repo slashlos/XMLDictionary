@@ -5,6 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "XMLDictionary",
+	url: "https://github.com/slashlos/XMLDictionary",
     platforms: [
         .macOS(.v10_13), .iOS(.v11), .tvOS(.v11),
     ],
