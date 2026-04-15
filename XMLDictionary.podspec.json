@@ -3,10 +3,10 @@
   "version": "1.4.1",
   "license": "zlib",
   "summary": "XMLDictionary is a class designed to simplify parsing and generating of XML on iOS and Mac OS.",
-  "homepage": "https://github.com/nicklockwood/XMLDictionary",
+  "homepage": "https://github.com/slashlos/XMLDictionary",
   "authors": "Nick Lockwood",
   "source": {
-    "git": "https://github.com/nicklockwood/XMLDictionary.git",
+    "git": "https://github.com/slashlos/XMLDictionary.git",
     "tag": "1.4.1"
   },
   "source_files": "XMLDictionary/XMLDictionary.{h,m}",
