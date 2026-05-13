@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "XMLDictionary",
     platforms: [
-        .macOS(.v10_13), .iOS(.v11), .tvOS(.v11),
+        .macOS(.v26_4), .iOS(.v26), .tvOS(.v11),
     ],
     products: [
         // Products define the executables and libraries produced by a package, and make them visible to other packages.
@@ -14,6 +14,7 @@ let package = Package(
 		],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
+				.package(url: "https://github.com/slashlos/XMLDictionary.git", from: "1.4.1"),
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
