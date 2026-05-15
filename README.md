@@ -199,6 +199,10 @@ Or if it is set to `XMLDictionaryAttributesModeUnprefixed` you would simply do t
 Release Notes
 ----------------
 
+Version 1.4.2
+- Upgraded for Xcode 26.5
+- Added package manager
+
 Version 1.4.1
 
 - Upgraded for Xcode 8.2
