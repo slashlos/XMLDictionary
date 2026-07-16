@@ -37,13 +37,6 @@
 #pragma GCC diagnostic ignored "-Wformat-non-iso"
 #pragma GCC diagnostic ignored "-Wgnu"
 
-
-@import Darwin.Availability;
-#if !__has_feature(objc_arc)
-#error This class requires automatic reference counting
-#endif
-
-
 @interface XMLDictionaryParser () <NSXMLParserDelegate>
 
 @property (nonatomic, strong) NSMutableDictionary *root;
