@@ -12,9 +12,7 @@
   "source_files": "XMLDictionary/XMLDictionary.{h,m}",
   "requires_arc": true,
   "platforms": {
-    "ios" : "12.0",
-    "osx" : "15.7",
-    "watchos" : "",
-    "tvos" : ""
+    "ios": "12.0",
+    "osx": "15.7"
   }
 }
